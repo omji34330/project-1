@@ -1,0 +1,9 @@
+FastAPI
+uvicorn
+httpx
+python-dotenv
+pydantic
+fastapi-cors
+numpy
+matplotlib
+pandas
